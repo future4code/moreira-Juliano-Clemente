@@ -1,0 +1,2 @@
+Aprendizados da semana
+Essa primeira semana na Labenu foi do jeito que esperava, cheio de desafios e aprendizados. Os professores são muito didaticos e objetivos, os colegas são super cooperativos. Começamos com aulas de terminal com desafio bem peculiar, e para o fim da semana tivemos aula de Git e Github que foi desafiador e um pouco trabalhoso mas foi **super legal**.
