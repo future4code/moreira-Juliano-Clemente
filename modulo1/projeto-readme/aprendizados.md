@@ -1,2 +1,3 @@
 Aprendizados da semana
+
 Essa semana na **Labenu** foi muito top, foi bem melhor que minhas expectativas. Os professores, os Cx, os colegas todos muito atenciosos, facilitando essa nova jornada. Quanto aos *professores*, todos muito didaticos e objetivos, facilitando muito o aprendizado. Pessoal do *Cx* sempre atento as perguntas e duvidas do pessoal. Os *colegas* nem se fala, todos muito bacanas prestativos e lidam com muita amizade. Essa primeira semana foi bem produtiva com desafios ja esperado por mim mas todos se ajudaram muito. Aprendemos muito sobre terminal, Git e Github. Agora é fixar todo o aprendizado para que nas próximas semanas tudo se encaixe melhor.
