@@ -61,13 +61,41 @@ function retornaMaiorNumero(array) {
 
 // EXERCÍCIO 07
 function retornaObjetoEntreDoisNumeros(num1, num2) {
+let numeroMajor
+let numeroMenor
+let diferenca
+let maiorDiv
+
+if( num1 > num2 ) {
+    numeroMajor = num1
+    numeroMenor = num2
+}else {
+    numeroMajor = num2
+    numeroMenor = num1
+}
+maiorDiv = numeroMajor % numeroMenor === 0 
+diferenca = numeroMajor - numeroMenor
+
+return {maiorNumero: numeroMajor , maiorDivisivelPorMenor: maiorDiv, diferenca: diferenca}
 
 }
+
+
+
+
 
 // EXERCÍCIO 08
 function retornaNPrimeirosPares(n) {
-   
+    let N = []
+    let i = 0
+    for (let i = 0; i < array.length; i++)
+    if(array[i] % 2 === 0) {
+        N.push(array[i] = i)
+    }
+    return N
 }
+
+
 
 // EXERCÍCIO 09
 function classificaTriangulo(ladoA, ladoB, ladoC) {
