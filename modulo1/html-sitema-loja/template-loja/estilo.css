@@ -1,0 +1,56 @@
+h1{
+    background-color: lightsalmon;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 100px;
+    margin: 30px;
+   }
+
+#rede {
+    background-color: green;
+}
+
+#rodape{
+    background-color:lightsalmon
+    
+}
+
+#description{
+    font-weight: bold, ;
+    color: rgb(67, 46, 160)
+   
+}
+
+#estoque {
+    font-size: 100px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    margin: 30px;
+    color: rgb(67, 46, 160);
+    padding: 20px;
+}
+
+a{
+    color: green;
+}
+
+h2 {
+    color: rgb(67, 46, 160);
+}
+
+.tp {
+    color: darkgreen;
+    background-color: rgb(19, 13, 43);
+}
+
+.conteiner{
+
+    max-width: 100px;
+    max-height: 100px;
+}
+
+img{
+    max-width: 100px;
+    max-height: 100px;
+    
+}
