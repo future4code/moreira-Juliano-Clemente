@@ -79,6 +79,9 @@ div img {
 
 #container-de-descricao>ol {
     padding: 15px 0px;
+    display: block;
+    width: 300px;
+    margin: 0 auto;
 }
 
 #container-para-comprar {
