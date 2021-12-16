@@ -103,7 +103,10 @@ div:last-child {
 table {
     width: 60%;
 }
-
+table img {
+    width: 40px;
+    height: 40px;
+}
 .tabela{
     text-align: center;
 }
