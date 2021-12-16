@@ -19,6 +19,7 @@ h2 {
 input {
     height: 20px;
     width: 500px;
+   
 }
 
 button:focus {
@@ -102,6 +103,8 @@ div:last-child {
 
 table {
     width: 60%;
+    position: relative;
+    top: 50
 }
 table img {
     width: 40px;
@@ -109,6 +112,7 @@ table img {
 }
 .tabela{
     text-align: center;
+
 }
 td button {
     background-color: #fadf63;
@@ -129,7 +133,12 @@ td button:hover{
 .container-do-search {
     margin-top: 20px;
     height: 100px;
+    
 }
+.container-do-search input {
+    border: none;
+    border-bottom: 3px black solid; 
+} 
 
 
 #back-button {
@@ -145,3 +154,4 @@ td button:hover{
 #back-button:hover {
     background-color: #635a3d
 }
+
