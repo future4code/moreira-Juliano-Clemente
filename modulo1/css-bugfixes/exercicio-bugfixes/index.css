@@ -1,0 +1,174 @@
+/** 
+  *
+  *  ESTILOS GERAIS 
+  *
+  **/
+  @import url('https://fonts.googleapis.com/css2? family = Roboto: ital, wght @ 0,400; 1,100; 1,300; 1,400 & display = swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    background-color: #fe7e02;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    text-align: center;
+}
+
+input {
+    height: 20px;
+    width: 500px;
+   
+}
+
+button:focus {
+    color: white;
+}
+
+
+
+div>p:first-child {
+    display: inline;
+}
+
+div img {
+    background: none;
+}
+
+.botao-amarelo {
+    background-color: #ffaf43;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.botao-amarelo:hover {
+    background-color: #c44f00;
+}
+
+.container {
+    height: 500px;
+    text-align: center;
+}
+
+.icone {
+    height: 20px;
+    width: 20px;
+
+}
+.icone:hover{
+    opacity: 0.5;
+}
+.icone:active{
+    color: #000;
+}
+
+
+
+/** 
+  *
+  *  ESTILOS HOME 
+  *
+  **/
+
+#container-de-descricao {
+    background-color: #2274a5;
+    color: white;
+    padding: 30px;
+    
+
+}
+
+#container-de-descricao>ol {
+    padding: 15px 0px;
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#container-para-comprar {
+    background-color: #e7eb90;
+}
+
+#container-para-comprar>p {
+    color: #c44f00;
+    padding: 100px 0;
+    font-size: 60px;
+}
+
+
+/**
+  *
+  *  ESTILOS COMPRAR 
+  *
+  **/
+
+div:nth-child(2),
+div:last-child {
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+table img {
+    width: 40px;
+    height: 40px;
+}
+.tabela{
+    text-align: center;
+
+}
+td button {
+    background-color: #fadf63;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+}
+
+td button:active{
+    color: white;
+}
+td button:hover{
+    background-color: #c0a011
+
+}
+
+.container-do-search {
+    margin-top: 20px;
+    height: 100px;
+    
+}
+.container-do-search input {
+    border: none;
+    border-bottom: 3px black solid; 
+} 
+
+
+#back-button {
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 10px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;    
+}
+
+#back-button:hover {
+    background-color: #635a3d
+}
+
